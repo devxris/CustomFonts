@@ -12,6 +12,21 @@
 		453870141F7F2AF80024678A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 453870121F7F2AF80024678A /* Main.storyboard */; };
 		453870161F7F2AF80024678A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 453870151F7F2AF80024678A /* Assets.xcassets */; };
 		453870191F7F2AF80024678A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 453870171F7F2AF80024678A /* LaunchScreen.storyboard */; };
+		453870361F7F39970024678A /* Canter Bold 3D.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870301F7F2C720024678A /* Canter Bold 3D.otf */; };
+		453870371F7F399A0024678A /* Canter Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870311F7F2C720024678A /* Canter Light.otf */; };
+		453870381F7F399C0024678A /* Canter Outline.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870321F7F2C720024678A /* Canter Outline.otf */; };
+		453870391F7F399E0024678A /* Canter Bold Strips.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870331F7F2C720024678A /* Canter Bold Strips.otf */; };
+		4538703A1F7F39A00024678A /* Canter Bold Shadow.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870341F7F2C720024678A /* Canter Bold Shadow.otf */; };
+		4538703B1F7F39A20024678A /* Canter Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870351F7F2C720024678A /* Canter Bold.otf */; };
+		4538703C1F7F39A50024678A /* Hallo sans black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870251F7F2C720024678A /* Hallo sans black.otf */; };
+		4538703D1F7F39A70024678A /* Hallo sans light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870261F7F2C720024678A /* Hallo sans light.otf */; };
+		4538703E1F7F39AA0024678A /* Hallo sans.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870271F7F2C720024678A /* Hallo sans.otf */; };
+		4538703F1F7F39AF0024678A /* Mohave-Bold Italics.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453870291F7F2C720024678A /* Mohave-Bold Italics.otf */; };
+		453870401F7F39B10024678A /* Mohave Italics.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4538702A1F7F2C720024678A /* Mohave Italics.otf */; };
+		453870411F7F39B30024678A /* Mohave.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4538702B1F7F2C720024678A /* Mohave.otf */; };
+		453870421F7F39B50024678A /* Mohave-SemiBold Italics.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4538702C1F7F2C720024678A /* Mohave-SemiBold Italics.otf */; };
+		453870431F7F39B70024678A /* Mohave-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4538702D1F7F2C720024678A /* Mohave-Bold.otf */; };
+		453870441F7F39B90024678A /* Mohave-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4538702E1F7F2C720024678A /* Mohave-SemiBold.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -209,8 +224,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				453870371F7F399A0024678A /* Canter Light.otf in Resources */,
+				453870411F7F39B30024678A /* Mohave.otf in Resources */,
+				4538703A1F7F39A00024678A /* Canter Bold Shadow.otf in Resources */,
+				453870401F7F39B10024678A /* Mohave Italics.otf in Resources */,
+				4538703E1F7F39AA0024678A /* Hallo sans.otf in Resources */,
+				453870431F7F39B70024678A /* Mohave-Bold.otf in Resources */,
+				4538703B1F7F39A20024678A /* Canter Bold.otf in Resources */,
+				4538703F1F7F39AF0024678A /* Mohave-Bold Italics.otf in Resources */,
+				453870421F7F39B50024678A /* Mohave-SemiBold Italics.otf in Resources */,
 				453870191F7F2AF80024678A /* LaunchScreen.storyboard in Resources */,
+				453870381F7F399C0024678A /* Canter Outline.otf in Resources */,
 				453870161F7F2AF80024678A /* Assets.xcassets in Resources */,
+				453870391F7F399E0024678A /* Canter Bold Strips.otf in Resources */,
+				4538703C1F7F39A50024678A /* Hallo sans black.otf in Resources */,
+				453870361F7F39970024678A /* Canter Bold 3D.otf in Resources */,
+				4538703D1F7F39A70024678A /* Hallo sans light.otf in Resources */,
+				453870441F7F39B90024678A /* Mohave-SemiBold.otf in Resources */,
 				453870141F7F2AF80024678A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

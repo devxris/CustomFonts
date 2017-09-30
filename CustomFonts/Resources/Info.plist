@@ -20,6 +20,24 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Hallo sans black.otf</string>
+		<string>Hallo sans light.otf</string>
+		<string>Hallo sans.otf</string>
+		<string>Canter Bold 3D.otf</string>
+		<string>Canter Bold Shadow.otf</string>
+		<string>Canter Bold Strips.otf</string>
+		<string>Canter Bold.otf</string>
+		<string>Canter Light.otf</string>
+		<string>Canter Outline.otf</string>
+		<string>Mohave Italics.otf</string>
+		<string>Mohave-Bold Italics.otf</string>
+		<string>Mohave-Bold.otf</string>
+		<string>Mohave-SemiBold Italics.otf</string>
+		<string>Mohave-semiBold.otf</string>
+		<string>Mohave.otf</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
