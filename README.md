@@ -1,3 +1,3 @@
 # CustomFonts
-register fonts in info.plist (Info tab, Fonts provided by application), eg. Hallo sans.otf  
+register fonts in project settings (Info tab, Fonts provided by application), eg. Hallo sans.otf  
 
